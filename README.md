@@ -28,7 +28,7 @@ https://wokwi.com/projects/404132562546194433
   * COM (Common): Connect to a suitable power source
   * NO (Normally Open): Connect to anode of the LED
 
-#### 3- LED
+#### 2- LED
   * Anode (positive lead): Connect to relay NO (Normally Open)
   * Cathode (negative lead): Connect to GND on ESP32
 
@@ -36,6 +36,4 @@ https://wokwi.com/projects/404132562546194433
 
 
 ### Acknowledgments
-https://www.youtube.com/watch?v=7QwUSHKze3s
-
-https://geargenerator.com
+https://randomnerdtutorials.com/esp32-pir-motion-sensor-interrupts-timers/

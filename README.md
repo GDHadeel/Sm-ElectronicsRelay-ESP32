@@ -1,6 +1,6 @@
 # Sm-ElectronicsRelay-ESP32
 
-## Task 5: ESP32 with Light and Motion Sensors to Control Relay-Connected Light
+## Task 5: ESP32 with Light and Motion Sensors to Control Relay-Connected Light 
 
 ### Description
 This repository uses an ESP32 with a light sensor and a motion sensor to control an LED based on the inputs from these sensors. The sensors' data are connected to a database, and the bulb's state changes according to the following conditions:
